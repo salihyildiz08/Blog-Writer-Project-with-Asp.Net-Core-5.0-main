@@ -1,0 +1,12 @@
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\bin\Debug\net5.0\CoreLoyer.deps.json
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\bin\Debug\net5.0\CoreLoyer.dll
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\bin\Debug\net5.0\CoreLoyer.pdb
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.dll
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\refint\CoreLoyer.dll
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\CoreLoyer.pdb
+C:\Users\mustafa\Desktop\CoreDemo\CareLoyer\obj\Debug\net5.0\ref\CoreLoyer.dll

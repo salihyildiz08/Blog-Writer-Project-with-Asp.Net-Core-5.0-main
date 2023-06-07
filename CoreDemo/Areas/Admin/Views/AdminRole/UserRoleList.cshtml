@@ -1,0 +1,22 @@
+﻿@using EntityLayer.Concrete
+@model List<AppUser>
+@{
+    ViewData["Title"] = "UserRoleList";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>User Role List</h1>
+<table class="table table-bordered">
+    <tr>
+         <td>User Name</td>
+         <td>Assign A Role </td>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.NameSurname</td>
+            <td><a href="/Admin/AdminRole/AssingRole/@item.Id/"class="btn btn-outline-warning"> Assing A Role</a></td>
+        </tr>
+    }
+</table>
+<a href="/Admin/AdminRole/Index/" class="btn btn-primary">Role Back Page</a>
