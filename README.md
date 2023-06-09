@@ -2,8 +2,8 @@ Bu proje, bir mağazanın vitrin, admin ve kullanıcı olmak üzere 3 temel pane
 
 Projeyi bitirdiğiniz zaman aşağıdaki başlıkları öğrenmiş olacaksınız:
 
-Layout Kontrolü: Web sayfalarının tasarımının genel yapısını kontrol etme ve düzenleme becerisi.
-Controller Yapısı: MVC (Model-View-Controller) mimarisine uygun olarak, kullanıcı etkileşimlerini yöneten ve ilgili iş mantığını uygulayan bileşenlerin yapısı ve kullanımı.
+* Layout Kontrolü: Web sayfalarının tasarımının genel yapısını kontrol etme ve düzenleme becerisi.
+* Controller Yapısı: MVC (Model-View-Controller) mimarisine uygun olarak, kullanıcı etkileşimlerini yöneten ve ilgili iş mantığını uygulayan bileşenlerin yapısı ve kullanımı.
 Partial View: Bir web sayfasının bölümlerini ayrı ayrı düzenlemek için kullanılan ve daha sonra ana sayfaya dahil edilen görünümler.
 Code First: Entity Framework kullanarak veritabanı modelini kodlarınızdan oluşturma yöntemi.
 Entity Framework: Veritabanı işlemlerini yönetmek için Entity Framework kullanımı.
